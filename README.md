@@ -2,7 +2,7 @@
 Analyze the district-wide standardized test results. By aggregate the data to and showcase obvious trends in school performance.
 Reports includes : 
 
-#--District Summary
+### District Summary
 * Create a high level snapshot (in table form) of the district's key metrics, including:
   * Total Schools
   * Total Students
