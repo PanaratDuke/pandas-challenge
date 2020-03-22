@@ -13,6 +13,7 @@ Reports includes :
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
+![GitHub Logo](/images/DistrictSummary.png)
  
  ### School Summary
 * Create an overview table that summarizes key metrics about each school, including:
