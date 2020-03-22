@@ -12,6 +12,7 @@ Reports includes :
   * % Passing Math
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
+
  
  ### School Summary
 * Create an overview table that summarizes key metrics about each school, including:
