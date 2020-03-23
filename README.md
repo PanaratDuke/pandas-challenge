@@ -1,8 +1,8 @@
-## Pandas Challenge
+# Pandas Challenge
 Analyze the district-wide standardized test results. By aggregate the data to and showcase obvious trends in school performance.
 Reports includes : 
 
-### District Summary
+## District Summary
 * Create a high level snapshot (in table form) of the district's key metrics, including:
   * Total Schools
   * Total Students
@@ -15,7 +15,7 @@ Reports includes :
 
 ![GitHub Logo](/images/DistrictSummary.png)
  
- ### School Summary
+ ## School Summary
 * Create an overview table that summarizes key metrics about each school, including:
   * School Name
   * School Type
@@ -28,7 +28,7 @@ Reports includes :
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-### Top Performing Schools (By Passing Rate)
+## Top Performing Schools (By Passing Rate)
 * Create a table that highlights the top 5 performing schools based on Overall Passing Rate. Include:
   * School Name
   * School Type
@@ -40,19 +40,22 @@ Reports includes :
   * % Passing Math
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
+![GitHub Logo](/images/TopPerformingSchools.png)
 
-### Bottom Performing Schools (By Passing Rate)
+## Bottom Performing Schools (By Passing Rate)
 * Create a table that highlights the bottom 5 performing schools based on Overall Passing Rate. Include all of the same metrics as above.
-
-### Math Scores by Grade\*\*
+  ![GitHub Logo](/images/BottomPerformingSchools.png)
+## Math Scores by Grade
 
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+![GitHub Logo](/images/MathScoreByGrades.png)
 
-### Reading Scores by Grade
+## Reading Scores by Grade
 
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+![GitHub Logo](/images/ReadingScoreByGrades.png)
 
-### Scores by School Spending
+## Scores by School Spending
 
 * Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
   * Average Math Score
@@ -60,16 +63,18 @@ Reports includes :
   * % Passing Math
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
+  ![GitHub Logo](/images/ScoreBySchoolSpending.png)
 
-### Scores by School Size
+## Scores by School Size
 
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+![GitHub Logo](/images/ScoreBySchoolSize.png)
 
-### Scores by School Type
+## Scores by School Type
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
-  
-  
+
+![GitHub Logo](/images/ScoreBySchoolTypes.png)
   
   
  
